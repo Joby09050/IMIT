@@ -1,0 +1,58 @@
+.footer-section{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+.footer_body{
+    background-color: rgba(46,46,46,255);
+    border-bottom: 1px solid #616161;;
+}
+
+.footer_header_left{
+    font-size: 34px;
+    font-weight: 500;
+}
+
+.footer_discript{
+    color: #fff;
+}
+
+.dis_first{
+    font-size: 18px;
+}
+
+.about_proterty{
+    display: flex;
+
+}
+.businessicons{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap:40px;
+}
+
+.highlight{
+    background-color: rgba(196,113,237,255);
+    padding: 6px 5px 6px 5px;
+    border-radius:5px ;
+    width: 100%;
+}
+
+.right_footer_part,.left_footer_part{
+    margin-top: 8%;
+}
+
+.about_proterty{
+    position: relative;
+}
+.ring{
+    width: 65px;
+}
+
+.moving_obects{
+    width: 50px;
+    position: absolute;
+    /* left: 10%; */
+    left:2%;
+    top: 5%;
+}

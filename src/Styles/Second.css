@@ -1,0 +1,38 @@
+.service_header{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.designer{
+    width: 200px;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
+
+.profile_pic{
+    position: relative;
+}
+.profile_discription{
+    margin-right: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+.grouping{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+
+.profile_head{
+    font-size: 30px;
+    font-weight: 600;
+}
+.discript{
+    font-size: 18px;
+    font-weight: 400;
+}
